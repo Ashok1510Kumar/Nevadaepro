@@ -14,7 +14,7 @@ This script scrapes data from the Nevada EPro website, extracting bid informatio
 Install the libraries using pip:
 
 ```bash
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 Clone this repository to your local machine:
